@@ -1,0 +1,31 @@
+{3}{red}{b}Cast{/b}{/red}
+++++++
+{4}{green}{b}Lost Children (11 hundred-days past){/b}{/green}
+++++++
+{blue}{b}Name{/b} - . -  {b}Colour{/b} {b}Age{/b} {b}Gender{/b} - . - {b}Role{/b}{/blue}
+++++++
+{b}Dret{/b} - . - . - Red - 11 - M - . - . - . - . - . - Porters’ Shield Bearer{br}
+{b}Farn{/b} - . -  . - Red - 10 -  M - . - . - . - . - Porter{br}
+{b}Illia{/b} - . -  . - White - 11 -  F - . - . - . - . - Singer (Archivist){br}
+{b}Jep{/b} - . - . - . - Red - 11 - M - . - . - . - . - Maiho’s Shield Bearer{br}
+{b}Kin{/b} - . - . - . - Red - 9 -  M - . - . - . - . - Singer{br}
+{b}Lethia{/b} - . - Green - 11 - F - . - . - . - . -  Singer (Priest Caste){br}
+{b}Loshven{/b} - Blue - 12 - M - . - . - . - . - Singer (Priest Caste){br}
+{b}Maiho{/b} - . - Blue - 10 - F - . - . - . - . - Singer & Healer{br}
+{b}Pas{/b} - . - . -  . -  Red - 10 - M - . - . - . - . - Kin’s Shield Bearer{br}
+{b}Quan{/b} - . - . - Red - 11 - M - . - . - . - . - Porter{br}
+{b}Rath{/b} - . -  . - Red - 12 - M - . - . -  . -  . - Illia’s Shield Bearer{br}
+{b}Tavia{/b} - . - . - Green - 12 - F - . - . - . - Singer (HuntsMistress){br}
+{b}Urthia{/b} -  . - White -  10   -  F   - . - . - . -  Archivist Caste {br}
+{b}Urthrem{/b} - Black - 10 - M - . - . - . - Singer (Diviner){br}
+{b}Veuto{/b} - . - . - Blue - 10 - F - . - . - . - . - Singer (Priest Caste){br}
+
+++++++
+{4}{green}{b}Reborn{/b}{/green}
+++++++
+{b}Arkrum{/b} - . -  White - 500 - M - . - . - . - Singer (Priest){br}
+{b}Eskia{/b} - . - . -  White - 500 - F - . - . - . - Singer (Priestess){br}
+{b}Granvel{/b}  - . -  Blue - 500 - M   - . - . - . - Singer (Healer){br}
+{b}Odik{/b} - . - . -   White - 500 - M   - . - . - . - Archer{br}
+{b}Sa{/b} - . - . - . - . -  Red - 500 - F   - . - . - . - . - Swordswoman{br}
+{b}Warx{/b} - . - . - Red - 500 - M - . - . - . - . - Spearman{br}

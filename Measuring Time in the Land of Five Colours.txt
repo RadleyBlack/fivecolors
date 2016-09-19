@@ -1,0 +1,12 @@
+{3}{red}{b}Measuring Time in the Land of Five Colours.{/b}{/red}
+
+1 Land hour = 1 Earth hour {br}
+1 wake-sleep-cycle = 27 Earth hours {br}
+1 Land day = 3 sleep-cycles = 80 Earth hours {br}
+Time of day - Dusk Sleep (late afternoon), Cooling (evening), Night Sleep (midnight), Predawn (early morning), Dawn Sleep (morning) , Mid-Day (most of the day), Dusk Sleep (late afternoon){br}
+1 five-day = 17 Earth days{br}
+1 hundred-day = 11 Earth months{br}
+11 hundred-day = 10 Earth years{br}
+20 hundred-day = 18 Earth years{br}
+1 cycle = 1 Land year = 183 Land days = 20 Earth months{br}
+Seasons - Short Nights (Summer), Lengthening (Autumn), Long Nights (Winter), Shortening (Spring){br}

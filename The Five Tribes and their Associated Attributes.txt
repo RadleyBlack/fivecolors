@@ -1,0 +1,11 @@
+{3}{red}{b}The Five Tribes and their Associated Attributes{/b}{/red}
+
+
+++++++
+{blue}{b}Color{/b} - . - {b}Tribe{/b}  - . - {b}Speciality{/b}  - . - . - {b}Virtue{/b}  - . - . - . - {b}God{/b}{/blue}
+++++++
+{b}Blue{/b} - . - . - Wave  - . -  Healer  - . - . - . - . - . - Compassion  - . -  Naedri (F){br}
+{b}Red{/b}  - . - . - . - Blade  - . - WeaponSmith  -  Courage  - . - . -  . -  . - Dis (M){br}
+{b}Green{/b} - . - Spore  - . - HuntsMaster  - . -  Temperance - . - . - Fomarei (F){br}
+{b}White{/b}  - . - Wand  - . - Archivists  - . - . - . - Wisdom  - . - . - . -   . - Aria (F){br}
+{b}Black{/b}  - . - . - Spire  - . - Diviner  - . - . - . -  . -  Justice  - . - . -  . - . - . - Orock (M){br}
