@@ -44,7 +44,7 @@ Maiho and Laivo guided him to the altar and helped him “Oh, I would heal you no 
 
 Laivo reddened. “Do you really think so?” she asked.
 
-“Of course. You are prettiest girl I know.”
+“Of course. You are the prettiest girl I know.”
 
 Laivo turned away and muttered, “Except for Feibu.”
 
@@ -68,11 +68,11 @@ With each patient Maiho absorbed more vitality. Laivo prioritised the patients, 
 
 Maiho had had enough and was just about to grab her by the neck and haul her off to a consulting room for a talking to when two blood covered blue wave tribesmen staggered into the clinic.
 
-Laivo rushed over with bandages, in the pressing urgency of the patient’s condition she seemed to have temporarily forgotten that she was avoiding Maiho. 
+Laivo rushed over with bandages, with the pressing urgency of the patient’s condition she seemed to have temporarily forgotten that she was avoiding Maiho. 
 
 "What happened?"
 
-"An explosion in Stink Street. Some chemist experiment gone wrong."
+"An explosion in Stink Street. Some chemist’s experiment gone wrong."
 
 Maiho took one look at the wounds and told Laivo. "Get our archer friend and meet me in the inner temple."
 
@@ -120,7 +120,7 @@ Laivo and Nargre burst into the inner temple.
 
 “What did you do?” accused Nargre.
 
-Maiho was about to say something biting when she realized it probably {b}was{/b} her fault. “You’re not being helpful,” she complained. “This man, Nolwark and his friend Maksim came in with needle wounds.” Seeing that they did not understand she continued. “They were injured by a very dangerous, very rare Singer weapon, one in the Song Master procession.” She turned to the wounded man, “You attacked the Song Master.”
+Maiho was about to say something biting when she realized it probably {b}was{/b} her fault. “You’re not being helpful,” she complained. “This man, Nolwark and his friend Maksim came in with needle wounds.” Seeing that they did not understand she continued. “They were injured by a very dangerous, very rare Singer weapon, one in the Song Master’s  possession.” She turned to the wounded man, “You attacked the Song Master.”
 
 “Who is to say he didn’t attack us?” argued Nolwark.
 
@@ -150,7 +150,7 @@ Nolwark shook this head then yelped as Maiho’s sword darted forward and nicked h
 
 “Logwan had to be reminded every now and then to share the profits, the greedy dastard.”
 
-“And Logwan put up with that. Viune would have to torn you apart.”
+“And Logwan put up with that? Viune would have to torn you apart.”
 
 “Viune was before my time and Logwan is certainly no Viune. I never had a problem putting the scare into someone before you and your parents.”
 
@@ -239,7 +239,7 @@ Maiho slid her awareness in the other direction until she found Boeko, Grivia an
 
 The hunters slipped through a tangle of crystalline day trees, iridescent in the harsh sunlight. As they neared the outer doors Maiho opened them a crack, enough for the hunters to slide underneath. Maiho snapped the door closed before the magma snake could follow. She opened the inner door a crack and the hunters slid into the day nest proper. Thanks to the fact that hot air rises only a little of the hellishly hot outside air made it into the day nest proper.
 
-Maiho couldn’t believe she was doing this. For 10 hundred-days she had hid existence of the three hunters from the village and now she was throwing that secrecy away. But she felt she had no choice, if Huglek killed Huifa then there would be war between the senior families and Huglek. She would be pulled in as she could notabandon Huglek after her scheme had landed him in this mess. There was a good chance her parents and friends would be dragged into it as well. It was a nightmare. If she still believed in Naedri she would pray that Huifa had somehow escaped, but a sick feeling in the pit of her stomach told her that she was probably already dead.
+Maiho couldn’t believe she was doing this. For 10 hundred-days she had hid existence of the three hunters from the village and now she was throwing that secrecy away. But she felt she had no choice, if Huglek killed Huifa then there would be war between the senior families and Huglek. She would be pulled in as she could not abandon Huglek after her scheme had landed him in this mess. There was a good chance her parents and friends would be dragged into it as well. It was a nightmare. If she still believed in Naedri she would pray that Huifa had somehow escaped, but a sick feeling in the pit of her stomach told her that she was probably already dead.
 
 She directed the hunters towards Nargre’s location. She impressed Huglek’s psychic scent on the hunters, instructing them to track but not attack.
 
@@ -364,7 +364,7 @@ Maiho waited until Huglek composed himself. “Raeha is alive. She is breathing at
 
 “I restarted her heart. I can’t guarantee she will recover, but she {b}is{/b} alive. We will know more when she wakes.”
 
-For the first time hope bloomed in his heart. “You are telling me the truth? Of course you are. From all accounts you haven’t changed much from that earnest girl I taught singing,” Huglek said.
+For the first time hope bloomed in his heart. “You are telling me the truth? Of course you are. From all accounts you haven’t changed much from the earnest girl I taught singing,” Huglek said.
 
 “You should go to her. I’ll station this hunter here. I will make sure that Huifa stays here until things are resolved.”
 
@@ -380,4 +380,4 @@ For the first time hope bloomed in his heart. “You are telling me the truth? Of 
 
 “No need at all.”
 
-Maiho warned Nargre that Huglek was coming out and explained the situation. She then let go of thehunters and found herself back in Laivo’s arms.Laivo arms.
+Maiho warned Nargre that Huglek was coming out and explained the situation. She then let go of the hunters and found herself back in Laivo’s arms.
