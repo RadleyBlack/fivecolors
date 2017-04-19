@@ -2,7 +2,7 @@ Chapter 8 : Councillors
 
 ++++++
 {b}Location{/b} Southern Healing Clinic, Waterless Shore, Blue Wave Territory  {br}
-{b}Time{/b} Morning 1700 hours (48 hours before dusk) {br}
+{b}Time{/b} Warming (Morning) 1700 hours (48 hours before dusk) {br}
 
 When Maiho exited Bardre’s room with a sullen Nargre in tow, her mother was talking with her Father and Pelfra at the greeter’s desk. 
 
@@ -184,7 +184,7 @@ A distinguished gentleman in his fifties entered the room.
 
 “Yes, he was my junior priest for many years and a lazier more untrustworthy student I have yet to teach,” said Huglek
 
-“They have a history,” added Maiho.
+“They have a history,” explained Maiho.
 
 “Do you have my payment?” asked Huglek.
 
@@ -474,7 +474,7 @@ Quickly and efficiently Maiho worked her way through the agenda delivering every
 
 “You really want me to do this?” asked Maiho.
 
-“Kenthan will kill me!” exclaimed Logwan.
+“Kenthan will kill me!” exclaimed Logwan. 
 
 That convinced Maiho. It was time she had a face to face talk with Kenthan. She raised her hand.
 
