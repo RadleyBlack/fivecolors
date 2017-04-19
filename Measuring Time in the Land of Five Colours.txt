@@ -4,22 +4,22 @@
 1 wake-sleep-cycle = 27 Earth hours {br}
 1 Land day = 3 sleep-cycles = 80 Earth hours {br}
 Time of day{br}
-7600 - 0400 Night Sleep (midnight){br}
-0400 - 2300 Pre-Dawn, Dawn, Warming (Morning){br}
-— 0500 - 0600 Pre-Dawn Breakfast (1st Meal){br}
-— 1300 - 1400 Warming Lunch (2nd Meal){br}
-— 2000 - 2100 Warming Dinner (3rd Meal){br}
-2300 - 3100 Dawn Sleep (morning){br} 
-3100 - 4900 Mid-Day (most of the day){br}
-— 3200 - 3300 Day Breakfast (4th Meal){br}
-— 4000 - 4100 Day Lunch (5th Meal){br}
-— 4600 - 4700 Day Dinner (6th Meal){br}
-4900 - 5700 Dusk Sleep (late afternoon){br}
-5700 - 7600 Pre-Dusk, Dusk, Cooling (Evening){br}
-— 5800 - 5900 Pre-Dusk Breakfast (7th Meal){br}
-— 6600 - 6700 Cooling Lunch (8th Meal){br}
-— 7300 - 7400 Cooling Dinner ((9th Meal){br}
-7600 - 0400 Night Sleep (midnight){br}
+7600 hours - 0400 hours - Night Sleep (midnight){br}
+0400 hours - 2300 hours - Pre-Dawn, Dawn, Warming (Morning){br}
+— 0500 hours - 0600 hours - Pre-Dawn Breakfast (1st Meal){br}
+— 1300 hours - 1400 hours - Warming Lunch (2nd Meal){br}
+— 2000 hours - 2100 hours - Warming Dinner (3rd Meal){br}
+2300 hours - 3100 hours - Dawn Sleep (morning){br} 
+3100 hours - 4900 hours - Mid-Day (most of the day){br}
+— 3200 hours - 3300 hours - Day Breakfast (4th Meal){br}
+— 4000 hours - 4100 hours - Day Lunch (5th Meal){br}
+— 4600 hours - 4700 hours - Day Dinner (6th Meal){br}
+4900 hours - 5700 hours Dusk Sleep (late afternoon){br}
+5700 hours - 7600 hours Pre-Dusk, Dusk, Cooling (Evening){br}
+— 5800 hours - 5900 hours - Pre-Dusk Breakfast (7th Meal){br}
+— 6600 hours - 6700 hours - Cooling Lunch (8th Meal){br}
+— 7300 hours - 7400 hours - Cooling Dinner ((9th Meal){br}
+7600 hours - 0400 hours - Night Sleep (midnight){br}
 {br}
 1 five-day = 17 Earth days{br}
 1 hundred-day = 11 Earth months{br}
