@@ -1,7 +1,7 @@
 Chapter 4 : Confrontation
 
 {b}Location{/b} Training Camp, near Waterless Shore, Blue Wave Territory {br} 
-{b}Time{/b} Predawn 600 hours (9 hours before dawn) {br}
+{b}Time{/b} Pre-Dawn 600 hours (9 hours before dawn) {br}
 
 After warm up exercises and stretches, Jetrel lead the class in basic forms practicing thrusting, cutting and parrying for a third of an hour. Jetrel then handed the class over to Maiho. 
 
@@ -148,7 +148,7 @@ She touched Bardre and tried to will some of the vitality into her, but it didn’
 ++++++
 
 {b}Location{/b} Vision {br}
-{b}Time{/b} Predawn 700 hours (8 hours before dawn) {br}
+{b}Time{/b} Pre-Dawn 700 hours (8 hours before dawn) {br}
 
 There was color and noise. Maiho rose above the clamor. To the north she could see a red shield, to the east she could see a white sword. She moved toward the white sword.
 
@@ -274,7 +274,7 @@ Maiho climbed onto the hunters and they took off with a lurch.
 ++++++
 
 {b}Location{/b} Wilderness near Waterless Shore, Blue Wave Territory  {br}
-{b}Time{/b} Predawn 1000 hours (5 hours before dawn) {br}
+{b}Time{/b} Pre-Dawn 1000 hours (5 hours before dawn) {br}
 
 The shard crab lurched and Maiho was thrown into Bardre. Bardre did not stir. Maiho checked her but she seemed as well as could be expected. 
 

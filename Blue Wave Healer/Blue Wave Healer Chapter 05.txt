@@ -1,7 +1,7 @@
 Chapter 5 : Checkup
 
 {b}Location{/b} Wilderness near Waterless Shore, Blue Wave Territory  {br}
-{b}Time{/b} Predawn 1000 hours (5 hours before dawn) {br}
+{b}Time{/b} Pre-Dawn 1000 hours (5 hours before dawn) {br}
 
 
 Maiho scanned her surroundings as she ate her sandwich. Her shard mount Veuto was following the shard crab just as she told her to. Briefly she thought about the original Veuto, dead so many hundred-days before, before shying away from that terrible memory. She spotted Wendam and signaled him to come over. 
@@ -292,7 +292,7 @@ After Sebram left, Maiho placed her hand on her stomach and contemplated the dam
 ++++++
 
 {b}Location{/b} Waterless Shore, Blue Wave Territory  {br}
-{b}Time{/b} Predawn 1200 hours (3 hours before dawn) {br}
+{b}Time{/b} Pre-Dawn 1200 hours (3 hours before dawn) {br}
 
 Finally, the air lock of the village came into view. 
 

@@ -26,6 +26,7 @@
 {b}Foenad{/b} - . - Blue -  31 - M - . - . - . - . -  Huifa’s nephew {br}
 {b}Fomarei{/b} - . - Green - ?? - F - . - . - . - Goddess of Temperance{br}
 {b}Gedrot{/b} - . - . - Blue - 18 - M - . - . - . - Trainee Guard{br}
+{b}Goadra{/b} - . - . - Blue - 19 - F - . - . - . - Healer’s Aid{br}
 {b}Goina{/b} - . - . - Blue - . -  . -  . - . -  . -  . - . -  . - Guard’s Shard Crab{br}
 {b}Granvel{/b} - . - Blue - 500 - M - . - . - Reborn Singer (Healer){br}
 {b}Grivia{/b}  - . - Green - . -  . - . -  . -  . - . -  . - Maiho’s Shard Hunter{br}
@@ -78,6 +79,7 @@
 {b}Sebram{/b} - . - Blue - 20  -  M	- . - . - . -  Guard{br}
 {b}Sioma{/b} -  . - Blue - 46 - F   - . - . - . -  Caravan Mistress{br}
 {b}Stadef{/b}   - . -   Green -  33  -  M - . -   Loader (Pophur’s Caravan) /Favia’s Husband{br}
+{b}Tagran{/b}  - . -     Blue  -   20	 - M  - . -  . - . - Head Healer’s Aid{br}
 {b}Tarmar{/b}  - . -     Blue  -   18	 - M  - . -  . - . - Trainee Guard{br}
 {b}Tavia{/b}    - . -	 . - Green   -    23    -   F - . - . - . - Jnr HuntsMistress (Foragers Sacrifice){br}
 {b}Telvra{/b} - . - . - Blue - 49  -  F - . - . -  . -  . - Snr  Healer / Maiho’s Mother{br}
