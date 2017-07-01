@@ -16,6 +16,7 @@
 {b}Carele{/b} - . - . - Blue -  34  - F   - . -  Wood Carver (Healer Caste)
 {b}Clytid{/b} - . - . - Blue -  58  - M   - . -  Head of 4th Family (Joyful Tears){br}
 {b}Dalia{/b} - . - . -  Green -  35  -  F - . - . - . -   Driver (Pophur’s Caravan){br}
+{b}Desiad{/b} - . - Blue -  42 - M - . - . - . - . -  Huifa’s estranged son (Hidden Springs){br}
 {b}Dis{/b} - . - . -  . -  Red - ?? - M - . - . - . - . - God of Bravery{br}
 {b}Dugrel{/b}	- . - . - Blue - 51 - M  - . - . -  . -  Senior Teacher / Maiho’s Father{br}
 {b}Eskia{/b} - . - . -  White - 500 - F - . - . - . - Reborn Singer (Priestess){br}	
@@ -56,24 +57,24 @@
 {b}Leonam{/b}  - . -     Blue -    33  -  M - . - . -  . - Assistant Spear Drill Instructor{br}
 {b}Logwan{/b}	 - . -     Blue -  59  -  M   - . - . -  Snr  Priest (Waterless Shore){br}
 {b}Loshven{/b} - Blue - 23 - M - . - . - . - . - Jnr Priest (Blue Moon){br}
-{b}Maiho{/b} - . - . - Blue - 21 - F  - . - . - . - . - Jnr Healer (Waterless Shore){br}	
-{b}Maksim{/b} - . - Blue  -   24  -  M - . - . - . -  . - Haifa’s Enforcer{br}
+{b}Maiho{/b} - . - . - Blue - 21 - F  - . - . - . - . - Jnr Healer (Waterless Shore){br}
+{b}Maksim{/b} - . - Blue  -   24  -  M - . - . - . -  . - Huifa’s Enforcer{br}
 {b}Moene {/b} - . - Blue - 48 - F - . - . - . -   Snr Healer (Hidden Springs)  {br}
 {b}Mundas{/b}  - . - Blue - 19 - M - . - . - . -  Trainee Guard{br}
 {b}Naedri{/b} - . - . - Blue - ?? - F  - . - . - . - . - Goddess of Compassion {br}	
 {b}Nargre {/b} - . - Blue  -   53  -  F - . - . - . -  . - Archery Drill Instructor{br}
-{b}Nolwark {/b} - . - Blue  -   23  -  M - . - . - . -  . - Haifa’s Enforcer{br}
+{b}Nolwark {/b} - . - Blue  -   23  -  M - . - . - . -  . - Huifa’s Enforcer{br}
 {b}Odik {/b} - . - . -   White - 500 - M - . - . - . - Reborn Archer{br}
 {b}Orock {/b} -  . -   Black    -  ??   -  M   - . - . - . -  God of Justice {br}
 {b}Pas{/b} - . - . -  . -  Red      -   21    -   M    - . - . - . - . - Warrior (Blushing Flower){br}
 {b}Pelfra{/b}  - . - . -    Blue  -   48  -  F - . - . - . - . -  Snr Greeter / Laivo’s Mother{br}
 {b}Polgel{/b} - . - . -    Blue -    61  -  M - . - . - . -  . - Guard / Record Keeper{br}
 {b}Pophur{/b} -  . - White -  58 - M   - . - . - . -  Caravan Master{br}
-{b}Queobo{/b} - . - . Blue - 9 - F - . - . - . - Trainee Guard{br}
+{b}Queobo{/b} - . - . Blue - 19 - F - . - . - . - Trainee Guard{br}
 {b}Raeha{/b} - . - . - Blue - 33 - M - . - . -  Weaver / Huglek’s Wife {br}
 {b}Ras{/b}  - . - . - . - Red - . -  . -  . - . -  . - . - . - . - Maiho’s Shard Hunter{br}
 {b}Rath{/b} - . -  . -     Red     -    23    -   M    - . - . -  . -  . - Warrior (deceased){br}
-{b}Rigsos{/b} - . - . - Blue - 22  -  M - . - . - Tube Worm Farmer / Feibu’s Husband{br}	
+{b}Rigsos{/b} - . - . - Blue - 22  -  M - . - . - Tube Worm Farmer / Feibu’s Husband{br}
 {b}Roige{/b}   - . - . -    Blue  -   19 -	  F - . - . - . - . - Trainee Guard{br}
 {b}Sa{/b} - . - . - . - . -  Red   -   500   -    F   - . - . - . - . - Reborn Swordswoman{br}
 {b}Sebram{/b} - . - Blue - 20  -  M	- . - . - . -  Guard{br}
@@ -84,6 +85,7 @@
 {b}Tavia{/b}    - . -	 . - Green   -    23    -   F - . - . - . - Jnr HuntsMistress (Foragers Sacrifice){br}
 {b}Telvra{/b} - . - . - Blue - 49  -  F - . - . -  . -  . - Snr  Healer / Maiho’s Mother{br}
 {b}Temtop{/b} - . - Blue -  33  -  M - . - . - Loader (Sioma’s Caravan){br}
+{b}Theoka{/b} - . - Blue -  21  -  F - . - . - Belshat’s Daughter{br}
 {b}Theunis{/b} - . -    Blue -   ?? -   M - . - . - . - . -  Song Master (deceased){br}
 {b}Thiona{/b} - . - . - Blue - 37 - F - . - . - . - . - Council Woman (5th Family / Trade){br}
 {b}Tomon{/b} - . - . -  Green -  38  -  M - . - . -  Head Loader (Pophur’s Caravan){br}
