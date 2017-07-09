@@ -84,7 +84,7 @@ Nargre burst out laughing, doubling over. Stopping to catch her breath, she wipe
 
 “What we are planning - “
 
-“What {b}you{/b} are planning. I’m just along for the ride.”
+“What {b}you{/b} are planning - I’m just along for the ride.”
 
 “The plan is ambitious, but doable and you have your part,” argued Maiho.
 
@@ -104,13 +104,13 @@ The way opened up into a larger passage and soon they arrived at the council cha
 
 “Training accident.”
 
-“Why don’t you just tell him that you almost cut her in half?” whispered Nargre.
+“Why don’t you just tell him that you almost cut her in half?” muttered Nargre.
 
 “That wouldn’t help anyone,” Maiho muttered quietly back. “You both got here very quickly,” she said more loudly.
 
 “We don’t live far away, and whatever you sent in your message got Yeoni very excited,” replied Lanfrud.
 
-“Send my love to Gwaiva.”
+“Send my love to Gwaiva.” instructed Maiho as she lead Nargre though the entrance.
 
 “How much has Bardre explained about how the village council works?” asked Maiho.
 
@@ -118,11 +118,11 @@ The way opened up into a larger passage and soon they arrived at the council cha
 
 “So nothing. Okay. The council has nine members, three of which are Singers, three are senior family and three are common folk. You are one of common folk representatives and you represent the guard. Yeoni is another of the common folk representatives and she represents the farmers.”
 
-They entered a large room dominated by a rectangular table. At the table sat a small thirty-ish woman. “Yeoni! How are you?” asked Maiho.
+After a few sharp turns they entered a large room dominated by a rectangular table. At the table sat a small thirty-ish woman. “Yeoni! How are you?” asked Maiho.
 
 “Anxious to hear how you are going to deliver on your promises. If you have lured one of the senior families away from Logwan’s camp, I shall die of shock. Is this your bodyguard dear? She will have to wait outside,” replied Yeoni.
 
-“This is Acting Captain Nargre, she has Bardre’s proxy. She has one of the votes we are going to need, so be nice.”
+“This is Acting Captain Nargre, she has Bardre’s proxy. She has one of the votes we are going to need, so be nice.” Maiho wondered if Yeoni would have made that assumption if Nargre hadnÕt so obliviously been from the Shamble. She quickly glanced at Nargre but she didnÕt seem to be offended.
 
 “I am always nice. How exactly are we going to get the needed votes? Have you broken Belshat’s leg?”
 
@@ -210,7 +210,7 @@ An old woman in her sixties wandered into the room. “Huglek is that you?”
 
 “Huifa, you are as ravishing as ever.”
 
-“As honey tongued as ever I see. So you have gone down Vuine’s road.”
+“As honey tongued as ever I see. So you have gone down Viune’s road.”
 
 “It eventually happens to all of us who Sing for a living,” stated Huglek.
 
@@ -220,7 +220,7 @@ An old woman in her sixties wandered into the room. “Huglek is that you?”
 
 “Huifa is 4th senior family. They consider themselves in charge of caravans, although as with the other senior families their aspirations don’t completely match reality,” Maiho whispered to Nargre.
 
-“That is not what you said before,” said Huifa replying to Huglek.
+“That is not what you said before,” said Huifa replying to Huglek with a frown.
 
 “We say a great many foolish things when we are young,” observed Huglek. 
 
@@ -256,7 +256,7 @@ A rather plain thirty-something woman marched into the room. “What did I miss?”
 
 “Shouldn’t we debate the issue?” asked Belshat.
 
-“The charter says we should start on time,” stated Kevlin. “All those against starting on time and instead letting Logwan waste our time.”
+“The charter says we should start on time as long as six or more members are present,” stated Kevlin. “All those against starting on time and instead letting Logwan waste our time.”
 
 “That sounds like a debate to me,” said Belshat.
 
