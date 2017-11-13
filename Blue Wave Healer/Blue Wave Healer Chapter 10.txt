@@ -4,11 +4,11 @@ Chapter 10 : Cross-Examination
 {b}Location{/b} Southern Healing Clinic, Waterless Shore, Blue Wave Territory  {br}
 {b}Time{/b} Warming (Morning) 2200 hours (43 hours before dusk) {br}
 
-Maiho briefly closed her eyes, then tried to disentangle herself from Laivo, but Laivo would not let go. She was surprisingly strong.
+Maiho briefly closed her eyes, then tried to disentangle herself from Laivo, but Laivo refused to let go. She was surprisingly strong.
 
-“Time to get back to work,” announced Maiho.
+“Time to get back to work,” whispered Maiho.
 
-“You have already done enough. You’re exhausted,” countered Laivo.
+“You have already done enough. You’re exhausted,” insisted Laivo.
 
 “The work is not going to get done by itself. There are all those patients that didn’t get treated because I was busy with Raeha and I also have to stop Huglek killing off the senior families.”
 
@@ -52,7 +52,7 @@ At first Maiho didn't understand and then she did. "Oh. Oh! Umm no. That kind of
 
 “Do you really think Thiona and Foenad will come?” asked Laivo. “I’m amazed that Belshat came.”
 
-“They will all be nervous about Huglek,” said Maiho. “They’ll come.” Turning to the guard she asked, “Can you find Tagran for me?”
+“They will all be nervous about Huglek, afraid he’ll come after them next,” said Maiho. “They’ll come.” Turning to the guard she asked, “Can you find Tagran for me?”
 
 “I don’t know what he looks like,” said the guard.
 
@@ -188,6 +188,7 @@ Belshat turned pale.
 “I didn’t think you and Huifa had the guts,” said Thiona. “I thought you would do {b}nothing{\b} as usual.”
 
 “Oh, I wouldn’t say they have been doing nothing,” contradicted Maiho.
+
 “I tried to convince Huifa that it was a bad idea. Did your so-called witnesses tell you that?” asked Belshat, ignoring Thiona.
 
 “You only did so because you thought it was too risky,” said Maiho. “Huifa wanted to send three enforcers. You convinced her to send ten. You even lent her three enforcers and a lookout for the job.”
@@ -200,7 +201,7 @@ Belshat turned pale.
 
 “Actually, I only promised not to use them against Maiho,” countered Belshat.
 
-“What kind of fool do you think I am?” asked Thiona. “That nonsense wouldn’t satisfy a five hundred day old.”
+“What kind of fool do you think I am?” shouted Thiona. “That nonsense wouldn’t satisfy a five hundred day old.”
 
 “You are always criticizing us for not doing enough. Well, we did something,” retorted Belshat.
 
@@ -214,11 +215,11 @@ Belshat gritted his teeth, but said nothing.
 
 “Lets hear the rest of it,” said Thiona. “What happened to my men?”
 
-“The lookouts both survived. Foenad and Belshat thought it would be good for us talk to them. They should be able to add details to the sequence of events,” said Maiho. “Can you two find them and present them at a follow-up meeting?”
+“The lookouts both survived. Foenad and Belshat, it would be good for us talk to them. They should be able to add details to the sequence of events,” said Maiho. “Can you two find them and present them at a follow-up meeting?”
 
 “Why would we do that?” asked Belshat.
 
-“If you trust my version of events,” said Maiho doubtfully.  “I guess there is no real reason to,” she continued. But they wouldn’t trust her, they would argue far into Dawn Sleep and she needed to wake early to meet with Nargre and her friends.
+“If you trust my version of events, I guess there is no real reason to,” said Maiho doubtfully.  But they wouldn’t trust her, they would argue far into Dawn Sleep and she needed to wake early to meet with Nargre and her friends.
 
 “Just get on with it,” demanded Thiona. 
 
@@ -252,11 +253,11 @@ Belshat gritted his teeth, but said nothing.
 
 “And Huglek’s wife isn’t a Singer,” added Foenad.
 
-“Huglek was senior priest for tens of hundred-days, in that time don’t you think he would have acquired a crystal weapon,” said Maiho. “As for Raeha, she is healer caste, and like all singer caste has been trained to sing.”
+“Huglek was senior priest for tens of hundred-days, in that time don’t you think he would have acquired a crystal weapon,” said Maiho. “As for Raeha, she is healer caste, and like all members of any of the singer castes, she has been trained to sing.”
 
 “I still don’t believe it,” stated Thiona.
 
-“What is there to believe?” asked Maiho, in annoyance. “You are too used to dealing with Logwan. You have forgotten how dangerous Viune was, people were afraid of her for a reason. Did you think that all the stories people tell about her were just that, only stories? If Huglek hadn’t been taken by surprise he would have be able to kill all of your little murder squad with ease. He is not going to be taken by surprise again.” Her eyes flicked to the door, her sensitive hearing giving her advanced warning. The door opened and two guards escorted Nolwark in.
+“What is there to believe?” asked Maiho, in annoyance. “You are too used to dealing with push overs like Logwan and non-political healers like my mother. You have forgotten how dangerous Viune was, people were afraid of her for a reason. Did you think that all the stories people tell about her were just that, only stories? If Huglek hadn’t been taken by surprise he would have be able to kill all of your little murder squad with ease. He is not going to be taken by surprise again.” Her eyes flicked to the door, her sensitive hearing giving her advanced warning. The door opened and two guards escorted Nolwark in.
 
 “This is one of the two survivors of the altercation,” explained Maiho. “Nolwark, would you explain what happened?”
 
@@ -336,7 +337,7 @@ Nolwark look away. “Sorry, I didn’t see what happen to them,” he said. “I happen
 
 “No. I saw Huglek take a quarrel to the shoulder though.  Maksim was hit and I dragged him to safety. I was hit in the arm as I dragged him into a side corridor,” said Nolwark.
 
-“It was probably a ricochet otherwise you might have lost your arm,” commented Maiho. Nolwark hadn’t mentioned that before. Huglek had been covered with blood when he had carried in Raeha even so she would have noticed if he had a major wound. Was Huglek powerful enough for his wounds to heal automatically? If he was carrying enough vitality he would be, she decided.
+“It was probably a ricochet otherwise you probably would have lost your arm,” commented Maiho. Nolwark hadn’t mentioned that before. Huglek had been covered with blood when he had carried in Raeha dyspite this she would have still noticed if he had a major wound. Was Huglek powerful enough for his wounds to heal automatically? If he was carrying enough vitality he would be, she decided.
 
 “So you ran,” accused Foenad. “Why should we trust anything you say? You Dis-forsworn coward.”
 
@@ -384,23 +385,27 @@ Maiho groaned and put her head in her hand. “Do I have to kill somebody in order
 
 “He will kill anyone the Gardener permits him to kill,” answered Maiho.  Which was one of a long list of reasons she really needed to talk to the Gardener fairly soon.
 
-“The Gardener doesn’t -,” started Foenad.
+“The Gardener doesn’t ex-,” started Foenad.
 
 “It doesn’t matter, because if there are further attacks we are going to blame you no matter who does it,” interrupted Maiho impatiently.
 
-“If you want to kill him, you need to stab him though the heart or through the eye into the brain,” commented Foenad.
+“You know, if we want to kill him, you need to stab him though the heart or through the eye into the brain,” mutter Foenad thoughtfully.
 
 “What nonsense are you spouting now, Foenad?” asked Thiona.
 
 “Foenad is right. The Cursed are supposed to be hard to kill,” said Belshat. “People tried to kill Viune plenty of times and Huglek had no trouble with dealing with ten enforcers, even though according to Nolwark’s story he was hit at least once.”
 
-“If there are any more Singers attacked -“ Maiho growled.
+“If there are any more Singers attacked -“ Maiho warned.
 
 “By Cursed, are you talking about the Evil Singers in plays that have glowing eyes, cackle while rubbing their hands and always get killed by the hero in the end of the play?” asked Thiona.
 
+Foenad startled at Thiona’s words, looking in alarm at Maiho and Laivo.
+
 “In real life they kill the hero, not the other way around,” stated Belshat.
 
-“Do you still need us, Healer?” asked one the guards. Nolwark and both his guards looked very uncomfortable with the conversation.
+“Does anyone pay the slightest attention to anything I say?” growled Maiho in frustration.
+
+“Do you still need us, Healer?” asked one the guards. Nolwark and both his guards looked very uncomfortable with the turn the conversation had taken.
 
 After confirming with Belshat, Foenad and Thiona that they were finished questioning Nolwark, Maiho dismissed them with a wave and they exited the room. She had wanted to use Nolwark to make a few more points, but she gave it up as a lost cause.
 

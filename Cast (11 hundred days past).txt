@@ -29,3 +29,4 @@
 {b}Odik{/b} - . - . -   White - 500 - M   - . - . - . - Archer{br}
 {b}Sa{/b} - . - . - . - . -  Red - 500 - F   - . - . - . - . - Swordswoman{br}
 {b}Warx{/b} - . - . - Red - 500 - M - . - . - . - . - Spearman{br}
+{b}Hekia{/b} - . - . - Green - 500 - F - . - . - . - . - Arbalist{br}
