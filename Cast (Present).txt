@@ -33,6 +33,7 @@
 {b}Grivia{/b}  - . - Green - . -  . - . -  . -  . - . -  . - Maiho’s Shard Hunter{br}
 {b}Gwaiva{/b} - . -    Blue -    25 -   F  - . - . - . - . - Yeoni’s Bodyguard / Lanfrud’s Wife{br}
 {b}Hadrel{/b} - . - Blue - 18 -  M - . -  . - . -  Trainee Guard{br}
+{b}Hekia{/b} - . - . Green - 500 - F - . - . - . - . - Reborn Arbalist{br}
 {b}Hufur{/b} - . - Green -  39  -  M - . -  Loader (Pophur’s Caravan) / Dalia’s Husband{br}
 {b}Huglek{/b} - . - Blue -   79 -   M - . - . -  . - . -  Song Master  (Waterless Shore){br}
 {b}Huifa{/b} - . - . - Blue -  64  - F   - . - . - . -  Council Woman (4th Family / Caravans){br}
